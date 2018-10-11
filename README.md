@@ -22,5 +22,4 @@ docker run -it rahulcv/nodejs bash
 FROM rahulcv/nodejs:latest
 ```
 
-----
-![One does not simply use latest](https://i.imgflip.com/1fgwxr.jpg)
+
